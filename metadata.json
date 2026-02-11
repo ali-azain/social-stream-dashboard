@@ -1,0 +1,8 @@
+{
+  "name": "SocialStream Dashboard",
+  "description": "An all-in-one social media management platform for scheduling, analytics, and AI-powered content creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
